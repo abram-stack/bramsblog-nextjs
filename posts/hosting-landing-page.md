@@ -1,6 +1,6 @@
 ---
 title: "Landing Page for Cloud Hosting using HTML, CSS and Js"
-date: "2022-3-29"
+date: "2022-03-29"
 ---
 
 Namaste..
